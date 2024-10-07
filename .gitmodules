@@ -1,0 +1,3 @@
+[submodule "FirstGithubDemo"]
+	path = FirstGithubDemo
+	url = https://github.com/dualpower1901/FirstGithubDemo.git
